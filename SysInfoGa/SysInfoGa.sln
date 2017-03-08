@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SysInfoGa", "SysInfoGa\SysInfoGa.csproj", "{55906FC1-940A-47D5-B3A0-356A31545721}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UtilityScripts", "UtilityScripts", "{D1E3DC17-7B12-48F4-9885-295FB67C234E}"
+	ProjectSection(SolutionItems) = preProject
+		Utility Scripts\RegisterSnapIns.ps1 = Utility Scripts\RegisterSnapIns.ps1
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55906FC1-940A-47D5-B3A0-356A31545721}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55906FC1-940A-47D5-B3A0-356A31545721}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55906FC1-940A-47D5-B3A0-356A31545721}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55906FC1-940A-47D5-B3A0-356A31545721}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
